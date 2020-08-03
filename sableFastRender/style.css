@@ -1,0 +1,84 @@
+.a-nav{
+    margin-left: 10%;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.nav-list-counter{
+    font-size: 12px;
+    font-weight: 700;
+    display: inline-block;
+    color: #a9acb5;
+    font-family: Montserrat, "sans-serif";
+}
+
+.nav-list{
+    font-size: 12px;
+    font-weight: 700;
+    display: inline-block;
+    color: #4D4F54;
+    font-family: Montserrat, "sans-serif";
+}
+
+
+.nav-list:hover{
+    color: #FF3644;
+    transition-property: color;
+    transition-duration: .3s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.art-evid{
+    width: 300px;
+}
+
